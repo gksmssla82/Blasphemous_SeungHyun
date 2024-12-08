@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: a6ff073c2972d5e409f8429b277b7dd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6943297174318826037
+    second: Death_Spine_0
+  - first:
+      213: -3825805117623539535
+    second: Death_Spine_1
+  - first:
+      213: -1804811545936341000
+    second: Death_Spine_2
+  - first:
+      213: 8535571545457279444
+    second: Death_Spine_3
+  - first:
+      213: 750596150778483201
+    second: Death_Spine_4
+  - first:
+      213: -6931410291049129742
+    second: Death_Spine_5
+  - first:
+      213: -502671953243318397
+    second: Death_Spine_6
+  - first:
+      213: -5187342652592754840
+    second: Death_Spine_7
+  - first:
+      213: -642217246566542567
+    second: Death_Spine_8
+  - first:
+      213: 6214892943449028006
+    second: Death_Spine_9
+  - first:
+      213: -5148243950408496263
+    second: Death_Spine_10
+  - first:
+      213: -382715054140663289
+    second: Death_Spine_11
+  - first:
+      213: -8528576516619102968
+    second: Death_Spine_12
+  - first:
+      213: 877237083755345857
+    second: Death_Spine_13
+  - first:
+      213: -2944794008706117856
+    second: Death_Spine_14
+  - first:
+      213: -832973059686459184
+    second: Death_Spine_15
+  - first:
+      213: 351264544000581766
+    second: Death_Spine_16
+  - first:
+      213: 1117300012741364143
+    second: Death_Spine_17
+  - first:
+      213: -3669072235712952478
+    second: Death_Spine_18
+  - first:
+      213: 8032193638183431465
+    second: Death_Spine_19
+  - first:
+      213: 3355574114584525895
+    second: Death_Spine_20
+  - first:
+      213: -3554903461930916545
+    second: Death_Spine_21
+  - first:
+      213: 3009872713284153558
+    second: Death_Spine_22
+  - first:
+      213: -4635378544445126982
+    second: Death_Spine_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death_Spine_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb0c2d10474af90800000000000000
+      internalID: -6943297174318826037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 192
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b86d28f38208eac0800000000000000
+      internalID: -3825805117623539535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 189
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d0f5167504f6e0800000000000000
+      internalID: -1804811545936341000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 189
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c9e1e811747670800000000000000
+      internalID: 8535571545457279444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 187
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f89781801faecf90800000000000000
+      internalID: -6931410291049129742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 185
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91395cd11d26617f0800000000000000
+      internalID: -642217246566542567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_6
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 184
+        width: 100
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a57c53443cbf3650800000000000000
+      internalID: 6214892943449028006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8051e2f28d864a980800000000000000
+      internalID: -8528576516619102968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 103
+        width: 73
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c77909da729c2c00800000000000000
+      internalID: 877237083755345857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 102
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d81bed5a6fa074f0800000000000000
+      internalID: -832973059686459184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_12
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 101
+        width: 73
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa90dfe1172718f00800000000000000
+      internalID: 1117300012741364143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_13
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 105
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c41fbd36d41dc0800000000000000
+      internalID: -3669072235712952478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 92
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d631bbe85187f60800000000000000
+      internalID: 8032193638183431465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 100
+        width: 73
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c7e4de0e4619e20800000000000000
+      internalID: 3355574114584525895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Spine_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 73
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab681eae5c3dbafb0800000000000000
+      internalID: -4635378544445126982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 165d6ad60e7c665459a2d563602df4a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Death_Spine_0: -6943297174318826037
+      Death_Spine_1: -3825805117623539535
+      Death_Spine_10: -832973059686459184
+      Death_Spine_11: 3355574114584525895
+      Death_Spine_12: 1117300012741364143
+      Death_Spine_13: -3669072235712952478
+      Death_Spine_14: -4635378544445126982
+      Death_Spine_16: 351264544000581766
+      Death_Spine_2: -1804811545936341000
+      Death_Spine_21: -3554903461930916545
+      Death_Spine_22: 3009872713284153558
+      Death_Spine_3: 8535571545457279444
+      Death_Spine_4: -6931410291049129742
+      Death_Spine_5: -642217246566542567
+      Death_Spine_6: 6214892943449028006
+      Death_Spine_7: -8528576516619102968
+      Death_Spine_8: 8032193638183431465
+      Death_Spine_9: 877237083755345857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

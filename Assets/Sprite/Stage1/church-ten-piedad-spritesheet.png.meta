@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 2d6410d3db67b1f4c9ef6f6a6ac69698
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2547023562055006963
+    second: church-ten-piedad-spritesheet_0
+  - first:
+      213: -1112589780325117238
+    second: church-ten-piedad-spritesheet_1
+  - first:
+      213: -7298612584820654227
+    second: church-ten-piedad-spritesheet_2
+  - first:
+      213: -1586449270030358295
+    second: church-ten-piedad-spritesheet_3
+  - first:
+      213: -8382127070548137079
+    second: church-ten-piedad-spritesheet_4
+  - first:
+      213: 7839058646106816864
+    second: church-ten-piedad-spritesheet_5
+  - first:
+      213: 8046252740838978534
+    second: church-ten-piedad-spritesheet_6
+  - first:
+      213: -4955634381275426157
+    second: church-ten-piedad-spritesheet_7
+  - first:
+      213: 7500936596590913182
+    second: church-ten-piedad-spritesheet_8
+  - first:
+      213: -8653629296178055219
+    second: church-ten-piedad-spritesheet_9
+  - first:
+      213: 7997206621800660760
+    second: church-ten-piedad-spritesheet_10
+  - first:
+      213: 1655379240380285769
+    second: church-ten-piedad-spritesheet_11
+  - first:
+      213: -2665242204188202170
+    second: church-ten-piedad-spritesheet_12
+  - first:
+      213: 492935409286577636
+    second: church-ten-piedad-spritesheet_13
+  - first:
+      213: -8572189359506931373
+    second: church-ten-piedad-spritesheet_14
+  - first:
+      213: 1752146216816652094
+    second: church-ten-piedad-spritesheet_15
+  - first:
+      213: 3414109240833855478
+    second: church-ten-piedad-spritesheet_16
+  - first:
+      213: 7168662495354732244
+    second: church-ten-piedad-spritesheet_17
+  - first:
+      213: 1693143735707854944
+    second: church-ten-piedad-spritesheet_18
+  - first:
+      213: 760833604531837239
+    second: church-ten-piedad-spritesheet_19
+  - first:
+      213: -4487164399436567160
+    second: church-ten-piedad-spritesheet_20
+  - first:
+      213: -375298238298960803
+    second: church-ten-piedad-spritesheet_21
+  - first:
+      213: -7967233234487513063
+    second: church-ten-piedad-spritesheet_22
+  - first:
+      213: -8073806184479785038
+    second: church-ten-piedad-spritesheet_23
+  - first:
+      213: 6601859637505286976
+    second: church-ten-piedad-spritesheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 957
+        width: 234
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d054925a09727acd0800000000000000
+      internalID: -2547023562055006963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 961
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ddf25d794f80f0800000000000000
+      internalID: -1112589780325117238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 950
+        width: 144
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fb198168e16ba90800000000000000
+      internalID: -7298612584820654227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 831
+        width: 75
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8a9a55bcccbf9e0800000000000000
+      internalID: -1586449270030358295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 819
+        width: 135
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98beac9f6d3bcab80800000000000000
+      internalID: -8382127070548137079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 820
+        width: 118
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c6a63e4ee9cc60800000000000000
+      internalID: 7839058646106816864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 911
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e378b6ac380aaf60800000000000000
+      internalID: 8046252740838978534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 591
+        width: 118
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3929d5b49cc0a3bb0800000000000000
+      internalID: -4955634381275426157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 120
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96678ac71ea81860800000000000000
+      internalID: 7500936596590913182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 739
+        width: 68
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7b467010228e780800000000000000
+      internalID: -8653629296178055219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 790
+        width: 68
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f74df2d09cbfe60800000000000000
+      internalID: 7997206621800660760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 946
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9434c6706a619f610800000000000000
+      internalID: 1655379240380285769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 785
+        width: 179
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64babfa1658230bd0800000000000000
+      internalID: -2665242204188202170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 765
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edfcbf942247d600800000000000000
+      internalID: 492935409286577636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 684
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351c437e137790980800000000000000
+      internalID: -8572189359506931373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 709
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa6ef63bfd05810800000000000000
+      internalID: 1752146216816652094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 563
+        width: 165
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffc74c044a516f20800000000000000
+      internalID: 3414109240833855478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 607
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb84eee843c7360800000000000000
+      internalID: 7168662495354732244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 393
+        width: 264
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0686b88c1414f7710800000000000000
+      internalID: 1693143735707854944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 65
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739dc4bd1260f8a00800000000000000
+      internalID: 760833604531837239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 204
+        width: 32
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dedc2b0c36ab1c0800000000000000
+      internalID: -4487164399436567160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 294
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c4c5d9d3caacaf0800000000000000
+      internalID: -375298238298960803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 229
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9107fafd593be6190800000000000000
+      internalID: -7967233234487513063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 223
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bffab45d0414ff80800000000000000
+      internalID: -8073806184479785038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: church-ten-piedad-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 177
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ed76bc548e9b50800000000000000
+      internalID: 6601859637505286976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      church-ten-piedad-spritesheet_0: -2547023562055006963
+      church-ten-piedad-spritesheet_1: -1112589780325117238
+      church-ten-piedad-spritesheet_10: 7997206621800660760
+      church-ten-piedad-spritesheet_11: 1655379240380285769
+      church-ten-piedad-spritesheet_12: -2665242204188202170
+      church-ten-piedad-spritesheet_13: 492935409286577636
+      church-ten-piedad-spritesheet_14: -8572189359506931373
+      church-ten-piedad-spritesheet_15: 1752146216816652094
+      church-ten-piedad-spritesheet_16: 3414109240833855478
+      church-ten-piedad-spritesheet_17: 7168662495354732244
+      church-ten-piedad-spritesheet_18: 1693143735707854944
+      church-ten-piedad-spritesheet_19: 760833604531837239
+      church-ten-piedad-spritesheet_2: -7298612584820654227
+      church-ten-piedad-spritesheet_20: -4487164399436567160
+      church-ten-piedad-spritesheet_21: -375298238298960803
+      church-ten-piedad-spritesheet_22: -7967233234487513063
+      church-ten-piedad-spritesheet_23: -8073806184479785038
+      church-ten-piedad-spritesheet_24: 6601859637505286976
+      church-ten-piedad-spritesheet_3: -1586449270030358295
+      church-ten-piedad-spritesheet_4: -8382127070548137079
+      church-ten-piedad-spritesheet_5: 7839058646106816864
+      church-ten-piedad-spritesheet_6: 8046252740838978534
+      church-ten-piedad-spritesheet_7: -4955634381275426157
+      church-ten-piedad-spritesheet_8: 7500936596590913182
+      church-ten-piedad-spritesheet_9: -8653629296178055219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

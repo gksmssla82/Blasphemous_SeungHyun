@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: b9395db99a8bbec42b7d61ca9bd4e512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3165987685372706686
+    second: Thron_ProjecTile_Unraveling_0
+  - first:
+      213: -2199242181132297413
+    second: Thron_ProjecTile_Unraveling_1
+  - first:
+      213: 6436738029918798975
+    second: Thron_ProjecTile_Unraveling_2
+  - first:
+      213: -4203711361886108547
+    second: Thron_ProjecTile_Unraveling_3
+  - first:
+      213: -4471956083165832762
+    second: Thron_ProjecTile_Unraveling_4
+  - first:
+      213: 76628495912741737
+    second: Thron_ProjecTile_Unraveling_5
+  - first:
+      213: 1035909021585738767
+    second: Thron_ProjecTile_Unraveling_6
+  - first:
+      213: 3861753033313003204
+    second: Thron_ProjecTile_Unraveling_7
+  - first:
+      213: 608203492925170734
+    second: Thron_ProjecTile_Unraveling_8
+  - first:
+      213: 2952059125696565270
+    second: Thron_ProjecTile_Unraveling_9
+  - first:
+      213: -3077403233149446996
+    second: Thron_ProjecTile_Unraveling_10
+  - first:
+      213: -2258411675946461540
+    second: Thron_ProjecTile_Unraveling_11
+  - first:
+      213: 4433476751129806096
+    second: Thron_ProjecTile_Unraveling_12
+  - first:
+      213: -880111384520534102
+    second: Thron_ProjecTile_Unraveling_13
+  - first:
+      213: 2312627754069495115
+    second: Thron_ProjecTile_Unraveling_14
+  - first:
+      213: 1595461829791788635
+    second: Thron_ProjecTile_Unraveling_15
+  - first:
+      213: 4645122689949181861
+    second: Thron_ProjecTile_Unraveling_16
+  - first:
+      213: 8273458317264518851
+    second: Thron_ProjecTile_Unraveling_17
+  - first:
+      213: 5850650635851735027
+    second: Thron_ProjecTile_Unraveling_18
+  - first:
+      213: -2229587615651877600
+    second: Thron_ProjecTile_Unraveling_19
+  - first:
+      213: 4479127592024678657
+    second: Thron_ProjecTile_Unraveling_20
+  - first:
+      213: -4648952051169285554
+    second: Thron_ProjecTile_Unraveling_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 240
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fb6e59609dfeb20800000000000000
+      internalID: 3165987685372706686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 240
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bdd8a63e8ba71e0800000000000000
+      internalID: -2199242181132297413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 240
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74ce898223e35950800000000000000
+      internalID: 6436738029918798975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 240
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d744180e9ca69a5c0800000000000000
+      internalID: -4203711361886108547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 240
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9d0c3c2ab60f1c0800000000000000
+      internalID: -4471956083165832762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 185
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b2d86063d301100800000000000000
+      internalID: 76628495912741737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 185
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c8d3344c9406e00800000000000000
+      internalID: 1035909021585738767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 185
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6a8e06ce3b79530800000000000000
+      internalID: 3861753033313003204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 184
+        width: 33
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24e4fabad5c07800800000000000000
+      internalID: 608203492925170734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 184
+        width: 41
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61018175222d7f820800000000000000
+      internalID: 2952059125696565270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 41
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca41d71701eda45d0800000000000000
+      internalID: -3077403233149446996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 129
+        width: 41
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96dd9adb8288a0e0800000000000000
+      internalID: -2258411675946461540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 129
+        width: 42
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0158b079d9fd68d30800000000000000
+      internalID: 4433476751129806096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 47
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa750eadb5739c3f0800000000000000
+      internalID: -880111384520534102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 126
+        width: 54
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d850380ba181020800000000000000
+      internalID: 2312627754069495115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 69
+        width: 57
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e2f61c418342610800000000000000
+      internalID: 1595461829791788635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 68
+        width: 56
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a72780c97ac67040800000000000000
+      internalID: 4645122689949181861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 67
+        width: 61
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7d80418a31d270800000000000000
+      internalID: 8273458317264518851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 66
+        width: 62
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff1bd651cfa13150800000000000000
+      internalID: 5850650635851735027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 65
+        width: 64
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02da57d50e9ee01e0800000000000000
+      internalID: -2229587615651877600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 64
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101284240de092e30800000000000000
+      internalID: 4479127592024678657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thron_ProjecTile_Unraveling_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 10
+        width: 64
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a2b3c9dba9b7fb0800000000000000
+      internalID: -4648952051169285554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ad4445ffa51e3e3439f1daff618411c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Thron_ProjecTile_Unraveling_0: 3165987685372706686
+      Thron_ProjecTile_Unraveling_1: -2199242181132297413
+      Thron_ProjecTile_Unraveling_10: -3077403233149446996
+      Thron_ProjecTile_Unraveling_11: -2258411675946461540
+      Thron_ProjecTile_Unraveling_12: 4433476751129806096
+      Thron_ProjecTile_Unraveling_13: -880111384520534102
+      Thron_ProjecTile_Unraveling_14: 2312627754069495115
+      Thron_ProjecTile_Unraveling_15: 1595461829791788635
+      Thron_ProjecTile_Unraveling_16: 4645122689949181861
+      Thron_ProjecTile_Unraveling_17: 8273458317264518851
+      Thron_ProjecTile_Unraveling_18: 5850650635851735027
+      Thron_ProjecTile_Unraveling_19: -2229587615651877600
+      Thron_ProjecTile_Unraveling_2: 6436738029918798975
+      Thron_ProjecTile_Unraveling_20: 4479127592024678657
+      Thron_ProjecTile_Unraveling_21: -4648952051169285554
+      Thron_ProjecTile_Unraveling_3: -4203711361886108547
+      Thron_ProjecTile_Unraveling_4: -4471956083165832762
+      Thron_ProjecTile_Unraveling_5: 76628495912741737
+      Thron_ProjecTile_Unraveling_6: 1035909021585738767
+      Thron_ProjecTile_Unraveling_7: 3861753033313003204
+      Thron_ProjecTile_Unraveling_8: 608203492925170734
+      Thron_ProjecTile_Unraveling_9: 2952059125696565270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

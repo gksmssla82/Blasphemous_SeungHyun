@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: c0fd10615a4406f48864b9fcdd4ea40d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7819921061011189013
+    second: penitent_attack_spark_revision_1_anim_0-tile_0
+  - first:
+      213: -181809532186084021
+    second: penitent_attack_spark_revision_1_anim_0-tile_1
+  - first:
+      213: -8287799867214991491
+    second: penitent_attack_spark_revision_1_anim_0-tile_2
+  - first:
+      213: -465752573525900879
+    second: penitent_attack_spark_revision_1_anim_0-tile_3
+  - first:
+      213: 2816523796481682227
+    second: penitent_attack_spark_revision_1_anim_0-tile_4
+  - first:
+      213: 5918167846740834105
+    second: penitent_attack_spark_revision_1_anim_0-tile_5
+  - first:
+      213: 905396798665787335
+    second: penitent_attack_spark_revision_1_anim_0-tile_6
+  - first:
+      213: -9191964042335663286
+    second: penitent_attack_spark_revision_1_anim_0-tile_7
+  - first:
+      213: 3799517159508312432
+    second: penitent_attack_spark_revision_1_anim_0-tile_8
+  - first:
+      213: 291890028757965525
+    second: penitent_attack_spark_revision_1_anim_0-tile_9
+  - first:
+      213: -7499364846246695666
+    second: penitent_attack_spark_revision_1_anim_0-tile_10
+  - first:
+      213: 7641723582991160892
+    second: penitent_attack_spark_revision_1_anim_0-tile_11
+  - first:
+      213: -5629548961828428346
+    second: penitent_attack_spark_revision_1_anim_0-tile_12
+  - first:
+      213: -9128959380353272619
+    second: penitent_attack_spark_revision_1_anim_0-tile_13
+  - first:
+      213: -8288096630394938502
+    second: penitent_attack_spark_revision_1_anim_0-tile_14
+  - first:
+      213: 2140528792501776345
+    second: penitent_attack_spark_revision_1_anim_0-tile_15
+  - first:
+      213: 6440659174492874499
+    second: penitent_attack_spark_revision_1_anim_0-tile_16
+  - first:
+      213: -5837607744947745153
+    second: penitent_attack_spark_revision_1_anim_0-tile_17
+  - first:
+      213: -2150552181786840203
+    second: penitent_attack_spark_revision_1_anim_0-tile_18
+  - first:
+      213: -4481226426272427741
+    second: penitent_attack_spark_revision_1_anim_0-tile_19
+  - first:
+      213: -3721799766798008609
+    second: penitent_attack_spark_revision_1_anim_0-tile_20
+  - first:
+      213: -2277480639644128729
+    second: penitent_attack_spark_revision_1_anim_0-tile_21
+  - first:
+      213: -432266034246420062
+    second: penitent_attack_spark_revision_1_anim_0-tile_22
+  - first:
+      213: 2137728841774899163
+    second: penitent_attack_spark_revision_1_anim_0-tile_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_attack_spark_revision_1_anim_0-tile_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 149
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be215da0a3f0a7390800000000000000
+      internalID: -7819921061011189013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_attack_spark_revision_1_anim_0-tile_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fee117ee1dbfc80800000000000000
+      internalID: -8287799867214991491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_attack_spark_revision_1_anim_0-tile_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 7
+        width: 105
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ba9b6687d461720800000000000000
+      internalID: 2816523796481682227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_attack_spark_revision_1_anim_0-tile_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dad8954f600d0400800000000000000
+      internalID: 291890028757965525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_attack_spark_revision_1_anim_0-tile_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32150ffce4c7fc1c0800000000000000
+      internalID: -4481226426272427741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_attack_spark_revision_1_anim_0-tile_22
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 127
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a976440558400af0800000000000000
+      internalID: -432266034246420062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7be7fef5a69d2294e89c85328e1ae4e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      penitent_attack_spark_revision_1_anim_0-tile_1: -7819921061011189013
+      penitent_attack_spark_revision_1_anim_0-tile_10: -7499364846246695666
+      penitent_attack_spark_revision_1_anim_0-tile_11: 7641723582991160892
+      penitent_attack_spark_revision_1_anim_0-tile_12: -5629548961828428346
+      penitent_attack_spark_revision_1_anim_0-tile_13: -9128959380353272619
+      penitent_attack_spark_revision_1_anim_0-tile_14: -8288096630394938502
+      penitent_attack_spark_revision_1_anim_0-tile_15: 2140528792501776345
+      penitent_attack_spark_revision_1_anim_0-tile_16: 6440659174492874499
+      penitent_attack_spark_revision_1_anim_0-tile_17: -5837607744947745153
+      penitent_attack_spark_revision_1_anim_0-tile_18: -2150552181786840203
+      penitent_attack_spark_revision_1_anim_0-tile_2: -8287799867214991491
+      penitent_attack_spark_revision_1_anim_0-tile_20: -3721799766798008609
+      penitent_attack_spark_revision_1_anim_0-tile_21: -2277480639644128729
+      penitent_attack_spark_revision_1_anim_0-tile_22: -432266034246420062
+      penitent_attack_spark_revision_1_anim_0-tile_23: 2137728841774899163
+      penitent_attack_spark_revision_1_anim_0-tile_3: 2816523796481682227
+      penitent_attack_spark_revision_1_anim_0-tile_4: 291890028757965525
+      penitent_attack_spark_revision_1_anim_0-tile_5: -4481226426272427741
+      penitent_attack_spark_revision_1_anim_0-tile_6: 905396798665787335
+      penitent_attack_spark_revision_1_anim_0-tile_7: -9191964042335663286
+      penitent_attack_spark_revision_1_anim_0-tile_8: 3799517159508312432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

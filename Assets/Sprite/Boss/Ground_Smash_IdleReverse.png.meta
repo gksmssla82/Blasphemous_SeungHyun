@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 7f6c24a97a1c48d49b0223b58a045c15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4493522635783821023
+    second: Ground_Smash_Left_0
+  - first:
+      213: 2752041987086327258
+    second: Ground_Smash_Left_1
+  - first:
+      213: -6278653444246382699
+    second: Ground_Smash_Left_2
+  - first:
+      213: -6333394405748590044
+    second: Ground_Smash_Left_3
+  - first:
+      213: 8099302310793485629
+    second: Ground_Smash_Left_4
+  - first:
+      213: 4033262979741782300
+    second: Ground_Smash_Left_5
+  - first:
+      213: -5507759787523548144
+    second: Ground_Smash_Left_6
+  - first:
+      213: -1812223642599759634
+    second: Ground_Smash_Left_7
+  - first:
+      213: -519059130252827180
+    second: Ground_Smash_Left_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 493
+        width: 154
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433b007d8f8b62b419bdf4628542f165
+      internalID: 157578433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 492
+        width: 159
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697ebacd4b163e64b8fd09107833dc18
+      internalID: 55069074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 488
+        width: 145
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a7a801ec0af734a8a86bbdd6e4b878
+      internalID: -1545309615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 257
+        width: 129
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7941723cbcfa448ba1222bb75dd63
+      internalID: 1489254752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 255
+        width: 121
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be686fa33cf7c4381f40afcfb385d0
+      internalID: 590048075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 251
+        width: 123
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b83b9421e9c64692f86e2b08ebe3b
+      internalID: -864852305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 131
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d3e860123e1647a92d38d7ce5a5c1
+      internalID: -514926779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 13
+        width: 140
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cea3690f66ac7340b1b7ec96a030c5e
+      internalID: -865826261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_Smash_IdleReverse_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 10
+        width: 140
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4084a308de40b54682d7edf04082c7b
+      internalID: 896778761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5474b5cf5c6690540a857419d575e439
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ground_Smash_IdleReverse_0: 157578433
+      Ground_Smash_IdleReverse_1: 55069074
+      Ground_Smash_IdleReverse_2: -1545309615
+      Ground_Smash_IdleReverse_3: 1489254752
+      Ground_Smash_IdleReverse_4: 590048075
+      Ground_Smash_IdleReverse_5: -864852305
+      Ground_Smash_IdleReverse_6: -514926779
+      Ground_Smash_IdleReverse_7: -865826261
+      Ground_Smash_IdleReverse_8: 896778761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

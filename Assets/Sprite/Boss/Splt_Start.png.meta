@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 006c0f1b0dd46cd49bcf163d008c8591
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6898692862265540467
+    second: Splt_Start_0
+  - first:
+      213: -2994050799172873069
+    second: Splt_Start_1
+  - first:
+      213: -8704916910007011707
+    second: Splt_Start_2
+  - first:
+      213: -468416064732843931
+    second: Splt_Start_3
+  - first:
+      213: -3948004197188300435
+    second: Splt_Start_4
+  - first:
+      213: -4657800817510494242
+    second: Splt_Start_5
+  - first:
+      213: -352062767668301954
+    second: Splt_Start_6
+  - first:
+      213: 6341121165330187169
+    second: Splt_Start_7
+  - first:
+      213: 3429579057953163281
+    second: Splt_Start_8
+  - first:
+      213: -7345430180208930777
+    second: Splt_Start_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Splt_Start_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 142
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80c322846be240a0800000000000000
+      internalID: -6898692862265540467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 488
+        width: 142
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39493db49aef276d0800000000000000
+      internalID: -2994050799172873069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 486
+        width: 142
+        height: 228
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586bdb3e03ce13780800000000000000
+      internalID: -8704916910007011707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 489
+        width: 142
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5603386221adf79f0800000000000000
+      internalID: -468416064732843931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 251
+        width: 142
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6117de991fd539c0800000000000000
+      internalID: -3948004197188300435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 250
+        width: 142
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf43c5a5da2c5fb0800000000000000
+      internalID: -4657800817510494242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 250
+        width: 142
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6d7237c83d1bf0800000000000000
+      internalID: -352062767668301954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 254
+        width: 142
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a387396a10300850800000000000000
+      internalID: 6341121165330187169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 142
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ca668bff489f20800000000000000
+      internalID: 3429579057953163281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Splt_Start_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 15
+        width: 142
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720963a3b2acf0a90800000000000000
+      internalID: -7345430180208930777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 19550f1310e96394493d51523a1229ad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Splt_Start_0: -6898692862265540467
+      Splt_Start_1: -2994050799172873069
+      Splt_Start_2: -8704916910007011707
+      Splt_Start_3: -468416064732843931
+      Splt_Start_4: -3948004197188300435
+      Splt_Start_5: -4657800817510494242
+      Splt_Start_6: -352062767668301954
+      Splt_Start_7: 6341121165330187169
+      Splt_Start_8: 3429579057953163281
+      Splt_Start_9: -7345430180208930777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

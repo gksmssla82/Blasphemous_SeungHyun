@@ -1,0 +1,1223 @@
+fileFormatVersion: 2
+guid: 09907482384d4a14f9ebf04b02cfaa82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6483286013817689492
+    second: Lionhead_death_0
+  - first:
+      213: 6573164696808266938
+    second: Lionhead_death_1
+  - first:
+      213: -625714553587361727
+    second: Lionhead_death_2
+  - first:
+      213: 2279689954719980175
+    second: Lionhead_death_3
+  - first:
+      213: 6810316570726207079
+    second: Lionhead_death_4
+  - first:
+      213: 4251134904359524134
+    second: Lionhead_death_5
+  - first:
+      213: -3154900751954707417
+    second: Lionhead_death_6
+  - first:
+      213: 61460481082938608
+    second: Lionhead_death_7
+  - first:
+      213: 1738105524204122477
+    second: Lionhead_death_8
+  - first:
+      213: -277336327711600954
+    second: Lionhead_death_9
+  - first:
+      213: -1506554849007576926
+    second: Lionhead_death_10
+  - first:
+      213: 7913352081381856207
+    second: Lionhead_death_11
+  - first:
+      213: -4647908424760605874
+    second: Lionhead_death_12
+  - first:
+      213: 8345355701587778
+    second: Lionhead_death_13
+  - first:
+      213: 1747653077725134839
+    second: Lionhead_death_14
+  - first:
+      213: 7658224883324072202
+    second: Lionhead_death_15
+  - first:
+      213: -4567679695262010277
+    second: Lionhead_death_16
+  - first:
+      213: 8257945559725849567
+    second: Lionhead_death_17
+  - first:
+      213: -1329692174581652315
+    second: Lionhead_death_18
+  - first:
+      213: -3327353370418033497
+    second: Lionhead_death_19
+  - first:
+      213: -6940800837575948070
+    second: Lionhead_death_20
+  - first:
+      213: -4454757710891953982
+    second: Lionhead_death_21
+  - first:
+      213: 284510401761204090
+    second: Lionhead_death_22
+  - first:
+      213: -1643981432175194048
+    second: Lionhead_death_23
+  - first:
+      213: -4780316026857607192
+    second: Lionhead_death_24
+  - first:
+      213: -917182554170503814
+    second: Lionhead_death_25
+  - first:
+      213: 1212743849160201043
+    second: Lionhead_death_26
+  - first:
+      213: 5246900389267701219
+    second: Lionhead_death_27
+  - first:
+      213: -3107211673148921198
+    second: Lionhead_death_28
+  - first:
+      213: 2914382417755855673
+    second: Lionhead_death_29
+  - first:
+      213: 5629865426092992552
+    second: Lionhead_death_30
+  - first:
+      213: 342340974412312906
+    second: Lionhead_death_31
+  - first:
+      213: -1293926033551628788
+    second: Lionhead_death_32
+  - first:
+      213: -8584761964914794531
+    second: Lionhead_death_33
+  - first:
+      213: 7151091904698955171
+    second: Lionhead_death_34
+  - first:
+      213: 7212871329912171944
+    second: Lionhead_death_35
+  - first:
+      213: 4671038941329007481
+    second: Lionhead_death_36
+  - first:
+      213: 2922013051341016811
+    second: Lionhead_death_37
+  - first:
+      213: -3490262448472088328
+    second: Lionhead_death_38
+  - first:
+      213: -4993685709127902050
+    second: Lionhead_death_39
+  - first:
+      213: 2651690064972671064
+    second: Lionhead_death_40
+  - first:
+      213: 4620612981139410227
+    second: Lionhead_death_41
+  - first:
+      213: -7157458464562128680
+    second: Lionhead_death_42
+  - first:
+      213: -3194288847468339249
+    second: Lionhead_death_43
+  - first:
+      213: 7897639567099719958
+    second: Lionhead_death_44
+  - first:
+      213: 444785372758240489
+    second: Lionhead_death_45
+  - first:
+      213: -2023097931857203480
+    second: Lionhead_death_46
+  - first:
+      213: 5872453774465119026
+    second: Lionhead_death_47
+  - first:
+      213: -4588230707924984830
+    second: Lionhead_death_48
+  - first:
+      213: 8468758831351624877
+    second: Lionhead_death_49
+  - first:
+      213: 8413171580740499855
+    second: Lionhead_death_50
+  - first:
+      213: 6928990072707545765
+    second: Lionhead_death_51
+  - first:
+      213: -2033373350181269388
+    second: Lionhead_death_52
+  - first:
+      213: 3081947826463243885
+    second: Lionhead_death_53
+  - first:
+      213: -934544573520757714
+    second: Lionhead_death_54
+  - first:
+      213: -1060235402320697810
+    second: Lionhead_death_55
+  - first:
+      213: -4862457138942579152
+    second: Lionhead_death_56
+  - first:
+      213: -4797509776732368656
+    second: Lionhead_death_57
+  - first:
+      213: -567943867590225530
+    second: Lionhead_death_58
+  - first:
+      213: 25991433454407991
+    second: Lionhead_death_59
+  - first:
+      213: 5001167435758671682
+    second: Lionhead_death_60
+  - first:
+      213: -3375568753988900365
+    second: Lionhead_death_61
+  - first:
+      213: 3682495976300971866
+    second: Lionhead_death_62
+  - first:
+      213: 5203615890141534372
+    second: Lionhead_death_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lionhead_death_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1051
+        width: 95
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a632968bdb606a0800000000000000
+      internalID: -6483286013817689492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1052
+        width: 95
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc15633772983b50800000000000000
+      internalID: 6573164696808266938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1049
+        width: 95
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14812aebde30157f0800000000000000
+      internalID: -625714553587361727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1048
+        width: 95
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a5c1d7fe513af10800000000000000
+      internalID: 2279689954719980175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_4
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1049
+        width: 102
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e8716a6da138e50800000000000000
+      internalID: 6810316570726207079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 917
+        width: 101
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6271d9a0ca01ffa30800000000000000
+      internalID: 4251134904359524134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 918
+        width: 96
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c70224b7a8734d0800000000000000
+      internalID: -3154900751954707417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 920
+        width: 85
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45cae5bf95ad000800000000000000
+      internalID: 61460481082938608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 922
+        width: 85
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61b450f3cdfe1810800000000000000
+      internalID: 1738105524204122477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_9
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 922
+        width: 90
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce407f4414b62cf0800000000000000
+      internalID: -277336327711600954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 793
+        width: 101
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8d24ec854a71be0800000000000000
+      internalID: -1506554849007576926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 798
+        width: 113
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4489214, y: 0.021252189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31d519acfd1dd60800000000000000
+      internalID: 7913352081381856207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 804
+        width: 101
+        height: 88
+      alignment: 9
+      pivot: {x: 0.2926959, y: 0.0015751232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e434991d9ef4f7fb0800000000000000
+      internalID: -4647908424760605874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 812
+        width: 106
+        height: 70
+      alignment: 9
+      pivot: {x: 0.37942794, y: 0.0058907643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f0e1a8e06ad1000800000000000000
+      internalID: 8345355701587778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_14
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 816
+        width: 169
+        height: 63
+      alignment: 9
+      pivot: {x: 0.25360793, y: 0.0000009688121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbc68f639e04810800000000000000
+      internalID: 1747653077725134839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 690
+        width: 106
+        height: 51
+      alignment: 9
+      pivot: {x: 0.37164855, y: 0.016168332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b694d4fa774a60800000000000000
+      internalID: 7658224883324072202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 696
+        width: 106
+        height: 39
+      alignment: 9
+      pivot: {x: 0.32108608, y: -0.010570037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54b42c84875c90c0800000000000000
+      internalID: -4567679695262010277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 700
+        width: 110
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb39fdebbd1a9270800000000000000
+      internalID: 8257945559725849567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 702
+        width: 124
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4a171230cfb8de0800000000000000
+      internalID: -1329692174581652315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_19
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 704
+        width: 130
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84d8389625daf90800000000000000
+      internalID: -6940800837575948070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 575
+        width: 136
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c05ad9d6758d22c0800000000000000
+      internalID: -4454757710891953982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 576
+        width: 140
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7751e7f3b8c2f300800000000000000
+      internalID: 284510401761204090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 576
+        width: 140
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0401cddf8976f29e0800000000000000
+      internalID: -1643981432175194048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_23
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 574
+        width: 140
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efab0996e7e8adb0800000000000000
+      internalID: -4780316026857607192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_24
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 574
+        width: 140
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d4b7093538543f0800000000000000
+      internalID: -917182554170503814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 445
+        width: 140
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353dbbcfa1884d010800000000000000
+      internalID: 1212743849160201043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 444
+        width: 140
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edf822da1cb0d840800000000000000
+      internalID: 5246900389267701219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 445
+        width: 140
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae20c2277f0e4d0800000000000000
+      internalID: -3107211673148921198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_28
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 446
+        width: 140
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b5bfd2e57f17820800000000000000
+      internalID: 2914382417755855673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 446
+        width: 140
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828a687d6cc412e40800000000000000
+      internalID: 5629865426092992552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 315
+        width: 139
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4138eb6d4d30c400800000000000000
+      internalID: 342340974412312906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 315
+        width: 138
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066684c02d0b0ee0800000000000000
+      internalID: -1293926033551628788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 315
+        width: 136
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf18f71a7cccd880800000000000000
+      internalID: -8584761964914794531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_33
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 315
+        width: 132
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8f597607bf1040800000000000000
+      internalID: 4620612981139410227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 315
+        width: 128
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117c01c75d0a9d60800000000000000
+      internalID: 7897639567099719958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 185
+        width: 111
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47013b616b108c3e0800000000000000
+      internalID: -2033373350181269388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_38
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 185
+        width: 106
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ee3c99ef4158cb0800000000000000
+      internalID: -4862457138942579152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 186
+        width: 101
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815cefbf024e18f0800000000000000
+      internalID: -567943867590225530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_35
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 185
+        width: 123
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731d04e22175c5000800000000000000
+      internalID: 25991433454407991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 56
+        width: 75
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24795a61947b76540800000000000000
+      internalID: 5001167435758671682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_death_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 185
+        width: 116
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57893a649ada1330800000000000000
+      internalID: 3682495976300971866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 03761338abb9fdf42a2f1cb5ff0a9bb3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lionhead_death_0: -6483286013817689492
+      Lionhead_death_1: 6573164696808266938
+      Lionhead_death_10: -1506554849007576926
+      Lionhead_death_11: 7913352081381856207
+      Lionhead_death_12: -4647908424760605874
+      Lionhead_death_13: 8345355701587778
+      Lionhead_death_14: 1747653077725134839
+      Lionhead_death_15: 7658224883324072202
+      Lionhead_death_16: -4567679695262010277
+      Lionhead_death_17: 8257945559725849567
+      Lionhead_death_18: -1329692174581652315
+      Lionhead_death_19: -6940800837575948070
+      Lionhead_death_2: -625714553587361727
+      Lionhead_death_20: -4454757710891953982
+      Lionhead_death_21: 284510401761204090
+      Lionhead_death_22: -1643981432175194048
+      Lionhead_death_23: -4780316026857607192
+      Lionhead_death_24: -917182554170503814
+      Lionhead_death_25: 1212743849160201043
+      Lionhead_death_26: 5246900389267701219
+      Lionhead_death_27: -3107211673148921198
+      Lionhead_death_28: 2914382417755855673
+      Lionhead_death_29: 5629865426092992552
+      Lionhead_death_3: 2279689954719980175
+      Lionhead_death_30: 342340974412312906
+      Lionhead_death_31: -1293926033551628788
+      Lionhead_death_32: -8584761964914794531
+      Lionhead_death_33: 4620612981139410227
+      Lionhead_death_34: 7897639567099719958
+      Lionhead_death_35: 25991433454407991
+      Lionhead_death_36: 3682495976300971866
+      Lionhead_death_37: -2033373350181269388
+      Lionhead_death_38: -4862457138942579152
+      Lionhead_death_39: -567943867590225530
+      Lionhead_death_4: 6810316570726207079
+      Lionhead_death_40: 5001167435758671682
+      Lionhead_death_42: -7157458464562128680
+      Lionhead_death_43: -3194288847468339249
+      Lionhead_death_45: 444785372758240489
+      Lionhead_death_46: -2023097931857203480
+      Lionhead_death_47: 5872453774465119026
+      Lionhead_death_48: -4588230707924984830
+      Lionhead_death_49: 8468758831351624877
+      Lionhead_death_5: 4251134904359524134
+      Lionhead_death_50: 8413171580740499855
+      Lionhead_death_51: 6928990072707545765
+      Lionhead_death_53: 3081947826463243885
+      Lionhead_death_54: -934544573520757714
+      Lionhead_death_55: -1060235402320697810
+      Lionhead_death_57: -4797509776732368656
+      Lionhead_death_6: -3154900751954707417
+      Lionhead_death_61: -3375568753988900365
+      Lionhead_death_63: 5203615890141534372
+      Lionhead_death_7: 61460481082938608
+      Lionhead_death_8: 1738105524204122477
+      Lionhead_death_9: -277336327711600954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

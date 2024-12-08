@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 9a048306fc45eec4aa3cc1e11d3d4b2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1791728060954502399
+    second: crosscrawler_death 1_0
+  - first:
+      213: -6309091066880938664
+    second: crosscrawler_death 1_1
+  - first:
+      213: -1143671826189372586
+    second: crosscrawler_death 1_2
+  - first:
+      213: -1618989150808091102
+    second: crosscrawler_death 1_3
+  - first:
+      213: -1826415556175095135
+    second: crosscrawler_death 1_4
+  - first:
+      213: 4226436256978129180
+    second: crosscrawler_death 1_5
+  - first:
+      213: -8912974829548895826
+    second: crosscrawler_death 1_6
+  - first:
+      213: -4782089037487462196
+    second: crosscrawler_death 1_7
+  - first:
+      213: 8471191429274246265
+    second: crosscrawler_death 1_8
+  - first:
+      213: -6925882217647206795
+    second: crosscrawler_death 1_9
+  - first:
+      213: 4089059749787960609
+    second: crosscrawler_death 1_10
+  - first:
+      213: -3364490597229386668
+    second: crosscrawler_death 1_11
+  - first:
+      213: -8726295894436519668
+    second: crosscrawler_death 1_12
+  - first:
+      213: 3072403336536954708
+    second: crosscrawler_death 1_13
+  - first:
+      213: -2064679517015681337
+    second: crosscrawler_death 1_14
+  - first:
+      213: 5592754687471807098
+    second: crosscrawler_death 1_15
+  - first:
+      213: 2517268357440122615
+    second: crosscrawler_death 1_16
+  - first:
+      213: 289426690689743641
+    second: crosscrawler_death 1_17
+  - first:
+      213: -8616902732211984423
+    second: crosscrawler_death 1_18
+  - first:
+      213: 3800145426361792697
+    second: crosscrawler_death 1_19
+  - first:
+      213: -1234493936879801808
+    second: crosscrawler_death 1_20
+  - first:
+      213: 654864552778433023
+    second: crosscrawler_death 1_21
+  - first:
+      213: -39123113649349865
+    second: crosscrawler_death 1_22
+  - first:
+      213: 5398996303391096478
+    second: crosscrawler_death 1_23
+  - first:
+      213: -7454961637771374499
+    second: crosscrawler_death 1_24
+  - first:
+      213: 5613958367923839974
+    second: crosscrawler_death 1_25
+  - first:
+      213: 3871878808529398368
+    second: crosscrawler_death 1_26
+  - first:
+      213: 3542610079167912720
+    second: crosscrawler_death 1_27
+  - first:
+      213: 5814946253148282681
+    second: crosscrawler_death 1_28
+  - first:
+      213: -7065827967187634436
+    second: crosscrawler_death 1_29
+  - first:
+      213: -7987038970244277713
+    second: crosscrawler_death 1_30
+  - first:
+      213: 4471825465811120119
+    second: crosscrawler_death 1_31
+  - first:
+      213: -5968141570956113745
+    second: crosscrawler_death 1_32
+  - first:
+      213: 2968815951717520197
+    second: crosscrawler_death 1_33
+  - first:
+      213: -5412851242125539383
+    second: crosscrawler_death 1_34
+  - first:
+      213: -4037058272507774462
+    second: crosscrawler_death 1_35
+  - first:
+      213: 965285025195627919
+    second: crosscrawler_death 1_36
+  - first:
+      213: -11509007598328117
+    second: crosscrawler_death 1_37
+  - first:
+      213: 1907514588546335176
+    second: crosscrawler_death 1_38
+  - first:
+      213: 8203474119965703348
+    second: crosscrawler_death 1_39
+  - first:
+      213: 4457120214090117339
+    second: crosscrawler_death 1_40
+  - first:
+      213: -1370690574339151477
+    second: crosscrawler_death 1_41
+  - first:
+      213: 2521955785339142926
+    second: crosscrawler_death 1_42
+  - first:
+      213: 9045489556842745952
+    second: crosscrawler_death 1_43
+  - first:
+      213: -3544924706996588725
+    second: crosscrawler_death 1_44
+  - first:
+      213: 87850003712992358
+    second: crosscrawler_death 1_45
+  - first:
+      213: 127258673197889826
+    second: crosscrawler_death 1_46
+  - first:
+      213: -6452679597245579192
+    second: crosscrawler_death 1_47
+  - first:
+      213: -806986775370744217
+    second: crosscrawler_death 1_48
+  - first:
+      213: -2710776888926346363
+    second: crosscrawler_death 1_49
+  - first:
+      213: 8018031400517175116
+    second: crosscrawler_death 1_50
+  - first:
+      213: -815947461987834827
+    second: crosscrawler_death 1_51
+  - first:
+      213: -949869745795835934
+    second: crosscrawler_death 1_52
+  - first:
+      213: 9021170735749665618
+    second: crosscrawler_death 1_53
+  - first:
+      213: 5153908122293806297
+    second: crosscrawler_death 1_54
+  - first:
+      213: 3433969407042775571
+    second: crosscrawler_death 1_55
+  - first:
+      213: 440737735721324668
+    second: crosscrawler_death 1_56
+  - first:
+      213: -908323490947316328
+    second: crosscrawler_death 1_57
+  - first:
+      213: -6382178332135642852
+    second: crosscrawler_death 1_58
+  - first:
+      213: -8537342801249470927
+    second: crosscrawler_death 1_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crosscrawler_death 1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 429
+        width: 99
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ea4fad2f7dd810800000000000000
+      internalID: 1791728060954502399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 428
+        width: 99
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85da8f60a1b9178a0800000000000000
+      internalID: -6309091066880938664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 432
+        width: 98
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6533c54988cd020f0800000000000000
+      internalID: -1143671826189372586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 438
+        width: 94
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2265fd2f1f13889e0800000000000000
+      internalID: -1618989150808091102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 442
+        width: 90
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa9fe97ab447a6e0800000000000000
+      internalID: -1826415556175095135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 336
+        width: 91
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c115303126157aa30800000000000000
+      internalID: 4226436256978129180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 338
+        width: 90
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea18db09d90ce4480800000000000000
+      internalID: -8912974829548895826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 338
+        width: 89
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc825446b5b92adb0800000000000000
+      internalID: -4782089037487462196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 338
+        width: 90
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c993ef8b7bf8570800000000000000
+      internalID: 8471191429274246265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 335
+        width: 91
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e81f461d252ef90800000000000000
+      internalID: -6925882217647206795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 224
+        width: 94
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125857b7d224fb830800000000000000
+      internalID: 4089059749787960609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 232
+        width: 92
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454200ea0adee41d0800000000000000
+      internalID: -3364490597229386668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 239
+        width: 97
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01692f2e18f5e680800000000000000
+      internalID: -8726295894436519668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 238
+        width: 102
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45792096e8e53aa20800000000000000
+      internalID: 3072403336536954708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 236
+        width: 108
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6514d1be8c853e0800000000000000
+      internalID: -2064679517015681337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 124
+        width: 114
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5c644cb1057ff0800000000000000
+      internalID: -39123113649349865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 125
+        width: 123
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50197673e7aa8890800000000000000
+      internalID: -7454961637771374499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 46
+        width: 116
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3aeef3469c8ed40800000000000000
+      internalID: 5613958367923839974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 124
+        width: 113
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b9582f811e92130800000000000000
+      internalID: 3542610079167912720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 45
+        width: 122
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6b2c376e221fd90800000000000000
+      internalID: -7065827967187634436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 143
+        width: 133
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84bed9cd6ec2da0800000000000000
+      internalID: -5968141570956113745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_24
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 47
+        width: 103
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53465dc3b1c2da4f0800000000000000
+      internalID: -815947461987834827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 126
+        width: 131
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7097c0b2a0dd1600800000000000000
+      internalID: 440737735721324668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 130
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c192cd30f92fd67a0800000000000000
+      internalID: -6382178332135642852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crosscrawler_death 1_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 46
+        width: 158
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13679cd74f3458980800000000000000
+      internalID: -8537342801249470927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b59283fb87922f48a037747ef8926fe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crosscrawler_death 1_0: 1791728060954502399
+      crosscrawler_death 1_1: -6309091066880938664
+      crosscrawler_death 1_10: 4089059749787960609
+      crosscrawler_death 1_11: -3364490597229386668
+      crosscrawler_death 1_12: -8726295894436519668
+      crosscrawler_death 1_13: 3072403336536954708
+      crosscrawler_death 1_14: -2064679517015681337
+      crosscrawler_death 1_15: 3542610079167912720
+      crosscrawler_death 1_16: -39123113649349865
+      crosscrawler_death 1_17: -7454961637771374499
+      crosscrawler_death 1_18: 440737735721324668
+      crosscrawler_death 1_19: -5968141570956113745
+      crosscrawler_death 1_2: -1143671826189372586
+      crosscrawler_death 1_20: -6382178332135642852
+      crosscrawler_death 1_21: -8537342801249470927
+      crosscrawler_death 1_22: -7065827967187634436
+      crosscrawler_death 1_23: 5613958367923839974
+      crosscrawler_death 1_24: -815947461987834827
+      crosscrawler_death 1_26: 3871878808529398368
+      crosscrawler_death 1_28: 5814946253148282681
+      crosscrawler_death 1_3: -1618989150808091102
+      crosscrawler_death 1_30: -7987038970244277713
+      crosscrawler_death 1_31: 4471825465811120119
+      crosscrawler_death 1_33: 2968815951717520197
+      crosscrawler_death 1_34: -5412851242125539383
+      crosscrawler_death 1_35: -4037058272507774462
+      crosscrawler_death 1_36: 965285025195627919
+      crosscrawler_death 1_37: -11509007598328117
+      crosscrawler_death 1_38: 1907514588546335176
+      crosscrawler_death 1_39: 8203474119965703348
+      crosscrawler_death 1_4: -1826415556175095135
+      crosscrawler_death 1_40: 4457120214090117339
+      crosscrawler_death 1_41: -1370690574339151477
+      crosscrawler_death 1_42: 2521955785339142926
+      crosscrawler_death 1_43: 9045489556842745952
+      crosscrawler_death 1_44: -3544924706996588725
+      crosscrawler_death 1_45: 87850003712992358
+      crosscrawler_death 1_46: 127258673197889826
+      crosscrawler_death 1_47: -6452679597245579192
+      crosscrawler_death 1_48: -806986775370744217
+      crosscrawler_death 1_49: -2710776888926346363
+      crosscrawler_death 1_5: 4226436256978129180
+      crosscrawler_death 1_50: 8018031400517175116
+      crosscrawler_death 1_52: -949869745795835934
+      crosscrawler_death 1_53: 9021170735749665618
+      crosscrawler_death 1_54: 5153908122293806297
+      crosscrawler_death 1_55: 3433969407042775571
+      crosscrawler_death 1_57: -908323490947316328
+      crosscrawler_death 1_6: -8912974829548895826
+      crosscrawler_death 1_7: -4782089037487462196
+      crosscrawler_death 1_8: 8471191429274246265
+      crosscrawler_death 1_9: -6925882217647206795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

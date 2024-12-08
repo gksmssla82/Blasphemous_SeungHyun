@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: a07bb3ed9ddef7e41b9cd8d7c1dcad5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2206928721162888098
+    second: PushBack_0
+  - first:
+      213: -3108320398532251595
+    second: PushBack_1
+  - first:
+      213: 2337901704478849393
+    second: PushBack_2
+  - first:
+      213: 96477583923590331
+    second: PushBack_3
+  - first:
+      213: 4540317769130815614
+    second: PushBack_4
+  - first:
+      213: -5071557303265331343
+    second: PushBack_5
+  - first:
+      213: 3565357873878421217
+    second: PushBack_6
+  - first:
+      213: -3572782251991178149
+    second: PushBack_7
+  - first:
+      213: -7277551994863262023
+    second: PushBack_8
+  - first:
+      213: -140005739042084703
+    second: PushBack_9
+  - first:
+      213: -9109666482292132692
+    second: PushBack_10
+  - first:
+      213: 1458935731511953281
+    second: PushBack_11
+  - first:
+      213: 4520921881855947330
+    second: PushBack_12
+  - first:
+      213: -681979490880280389
+    second: PushBack_13
+  - first:
+      213: -8499543453762385469
+    second: PushBack_14
+  - first:
+      213: -7225072539888254045
+    second: PushBack_15
+  - first:
+      213: 8658717606004501032
+    second: PushBack_16
+  - first:
+      213: 3319579527727899583
+    second: PushBack_17
+  - first:
+      213: 8811527873243299129
+    second: PushBack_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PushBack_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 249
+        width: 50
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3242688, y: 0.60531825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d6f2a58ab0d0842b9c9b8362efe61f
+      internalID: 983104331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 250
+        width: 49
+        height: 72
+      alignment: 9
+      pivot: {x: 0.31507874, y: 0.6334767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77736705cd911a14abcd4dd8e1ffad2c
+      internalID: 439701123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: 0.3091904, y: 0.76527226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf57d7f589c4d3a4fad9123e6a36313d
+      internalID: 1291367650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 256
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: 0.318498, y: 0.81181157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7b8f035dc05e4680312188be91d07
+      internalID: 1420907530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 256
+        width: 59
+        height: 59
+      alignment: 9
+      pivot: {x: 0.27661288, y: 0.8164647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929b3510ebf39249ae9393817e7fe5e
+      internalID: 931415606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 173
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: 0.28696376, y: 0.7978498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5936446cfd1c0a4589e93e3a401c070
+      internalID: 263386561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 175
+        width: 59
+        height: 56
+      alignment: 9
+      pivot: {x: 0.25334334, y: 0.80890244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8460505fa34412469533f715d4d5d36
+      internalID: -1632136360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 176
+        width: 62
+        height: 53
+      alignment: 9
+      pivot: {x: 0.25199226, y: 0.8367491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82027ccef597f5248bfd92b3d954dafa
+      internalID: -144440534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 173
+        width: 75
+        height: 59
+      alignment: 9
+      pivot: {x: 0.547594, y: 0.58842415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e74e077c27c984c9ae33fd001bbc26
+      internalID: -1710156963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 179
+        width: 80
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7824b551a7bd9e348a387cd41769d5e8
+      internalID: 573683760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 80
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8738962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fea87fd8cbd1e43bb1d9356ba90e19
+      internalID: -1286300359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 97
+        width: 81
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ba620bf85bdc4a9767f283aad18b6
+      internalID: 1210228936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 97
+        width: 81
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd877ecb0b553ac449ca311cbbbb8cff
+      internalID: 886366371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 97
+        width: 81
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf0502120f19ac4f84c84e61f5a8eed
+      internalID: 294117759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 97
+        width: 80
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ee655c06e5234fb701c3d09ef4717
+      internalID: 492417987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 82
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83b749cfa9e8341a77930fcf07b09b
+      internalID: 101422119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 13
+        width: 81
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d1b1fd6fb20a4680826b40ea74691
+      internalID: -1851983998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 12
+        width: 78
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e30cfcc836281447800e096d7973ab3
+      internalID: 477561763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 13
+        width: 79
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bddba2b92ba6849a1c0268127b77b8
+      internalID: -1513885695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e3d376d8b210f8043bde96767d74293c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PushBack_0: 983104331
+      PushBack_1: 439701123
+      PushBack_10: -1286300359
+      PushBack_11: 1210228936
+      PushBack_12: 886366371
+      PushBack_13: 294117759
+      PushBack_14: 492417987
+      PushBack_15: 101422119
+      PushBack_16: -1851983998
+      PushBack_17: 477561763
+      PushBack_18: -1513885695
+      PushBack_2: 1291367650
+      PushBack_3: 1420907530
+      PushBack_4: 931415606
+      PushBack_5: 263386561
+      PushBack_6: -1632136360
+      PushBack_7: -144440534
+      PushBack_8: -1710156963
+      PushBack_9: 573683760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

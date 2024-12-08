@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 339e65d297119494382bb50552690bf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 239264768656726561
+    second: Stomp_0
+  - first:
+      213: 4865506878328453272
+    second: Stomp_1
+  - first:
+      213: 5490910003758822830
+    second: Stomp_2
+  - first:
+      213: 8207886992087372263
+    second: Stomp_3
+  - first:
+      213: 3133411284918493375
+    second: Stomp_4
+  - first:
+      213: 3945872417084174157
+    second: Stomp_5
+  - first:
+      213: -4848436000192664021
+    second: Stomp_6
+  - first:
+      213: 6584560978963181884
+    second: Stomp_7
+  - first:
+      213: -5885199905032775196
+    second: Stomp_8
+  - first:
+      213: 30331563890600283
+    second: Stomp_9
+  - first:
+      213: -2815396706291447266
+    second: Stomp_10
+  - first:
+      213: 2541741250386378094
+    second: Stomp_11
+  - first:
+      213: -5317106824048654686
+    second: Stomp_12
+  - first:
+      213: 1639973891196901831
+    second: Stomp_13
+  - first:
+      213: 8860617341902821916
+    second: Stomp_14
+  - first:
+      213: 2084400673346550817
+    second: Stomp_15
+  - first:
+      213: 8164388838464004237
+    second: Stomp_16
+  - first:
+      213: -7262976296352427939
+    second: Stomp_17
+  - first:
+      213: 6757781983307684497
+    second: Stomp_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stomp_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 800
+        width: 142
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12adc071a0a025300800000000000000
+      internalID: 239264768656726561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 801
+        width: 136
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898bcfe2ab0c58340800000000000000
+      internalID: 4865506878328453272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 800
+        width: 139
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5feab6e81a33c40800000000000000
+      internalID: 5490910003758822830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 801
+        width: 144
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1dae76bb548e170800000000000000
+      internalID: 8207886992087372263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_4
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 802
+        width: 143
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb064cc46fc1c7b20800000000000000
+      internalID: 3133411284918493375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 553
+        width: 142
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6055ae0e82c630800000000000000
+      internalID: 3945872417084174157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 553
+        width: 106
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eec4c5525e6bcb0800000000000000
+      internalID: -4848436000192664021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 548
+        width: 118
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31bff8e25f016b50800000000000000
+      internalID: 6584560978963181884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 528
+        width: 192
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9db541ed1935ea0800000000000000
+      internalID: -5885199905032775196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 586
+        width: 205
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b596e2b8562cb6000800000000000000
+      internalID: 30331563890600283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 331
+        width: 202
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a81bbbc93bde8d0800000000000000
+      internalID: -2815396706291447266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 334
+        width: 203
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dbc345334164320800000000000000
+      internalID: 2541741250386378094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 337
+        width: 203
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a646c7c387d536b0800000000000000
+      internalID: -5317106824048654686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_13
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 335
+        width: 203
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9d4b9a09b52c610800000000000000
+      internalID: 1639973891196901831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_14
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 322
+        width: 201
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a98c2e68c37fa70800000000000000
+      internalID: 8860617341902821916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 50
+        width: 199
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cf7686e574dec10800000000000000
+      internalID: 2084400673346550817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 34
+        width: 173
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80afcc446cbd4170800000000000000
+      internalID: 8164388838464004237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 27
+        width: 142
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50d4d31a89b43b90800000000000000
+      internalID: -7262976296352427939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stomp_18
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 23
+        width: 142
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ad698d8e678cd50800000000000000
+      internalID: 6757781983307684497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: efee55cb97807df42952fe82e45d043f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stomp_0: 239264768656726561
+      Stomp_1: 4865506878328453272
+      Stomp_10: -2815396706291447266
+      Stomp_11: 2541741250386378094
+      Stomp_12: -5317106824048654686
+      Stomp_13: 1639973891196901831
+      Stomp_14: 8860617341902821916
+      Stomp_15: 2084400673346550817
+      Stomp_16: 8164388838464004237
+      Stomp_17: -7262976296352427939
+      Stomp_18: 6757781983307684497
+      Stomp_2: 5490910003758822830
+      Stomp_3: 8207886992087372263
+      Stomp_4: 3133411284918493375
+      Stomp_5: 3945872417084174157
+      Stomp_6: -4848436000192664021
+      Stomp_7: 6584560978963181884
+      Stomp_8: -5885199905032775196
+      Stomp_9: 30331563890600283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

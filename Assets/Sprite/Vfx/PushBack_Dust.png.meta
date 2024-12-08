@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: ebb64bae67cd5ef469797095411de3cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1354753315181961769
+    second: PushBack_Dust_0
+  - first:
+      213: 7701384638699390044
+    second: PushBack_Dust_1
+  - first:
+      213: 2541997656219837958
+    second: PushBack_Dust_2
+  - first:
+      213: -5873655066078720150
+    second: PushBack_Dust_3
+  - first:
+      213: 8246575764576555291
+    second: PushBack_Dust_4
+  - first:
+      213: 1319161916959276799
+    second: PushBack_Dust_5
+  - first:
+      213: 812755174715335242
+    second: PushBack_Dust_6
+  - first:
+      213: 3571637206389220264
+    second: PushBack_Dust_7
+  - first:
+      213: 8777566506296168754
+    second: PushBack_Dust_8
+  - first:
+      213: 3646020233165492200
+    second: PushBack_Dust_9
+  - first:
+      213: -6759631322361254971
+    second: PushBack_Dust_10
+  - first:
+      213: -3960806683555907445
+    second: PushBack_Dust_11
+  - first:
+      213: 5415568104849552631
+    second: PushBack_Dust_12
+  - first:
+      213: 4697554086973722732
+    second: PushBack_Dust_13
+  - first:
+      213: -4320891768886303402
+    second: PushBack_Dust_14
+  - first:
+      213: -1923989498763890004
+    second: PushBack_Dust_15
+  - first:
+      213: -1143515335615025267
+    second: PushBack_Dust_16
+  - first:
+      213: 4614376729694198853
+    second: PushBack_Dust_17
+  - first:
+      213: 1463518056610583731
+    second: PushBack_Dust_18
+  - first:
+      213: -3171823534668970810
+    second: PushBack_Dust_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PushBack_Dust_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dddb42a903f23de0800000000000000
+      internalID: -1354753315181961769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c3547680d0ea60800000000000000
+      internalID: 7701384638699390044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606ebd6766df64320800000000000000
+      internalID: 2541997656219837958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 34
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f443d56d59c7ea0800000000000000
+      internalID: -5873655066078720150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 34
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b115ee437f8b17270800000000000000
+      internalID: 8246575764576555291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeb49536ca9e4210800000000000000
+      internalID: 1319161916959276799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a446768c774b00800000000000000
+      internalID: 812755174715335242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3e569ad11019130800000000000000
+      internalID: 3571637206389220264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 6
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d04bad80113140800000000000000
+      internalID: 4697554086973722732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PushBack_Dust_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405dddc4b6bf3d0800000000000000
+      internalID: -3171823534668970810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: db62655b56f261142abd97d6b37c2340
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PushBack_Dust_0: -1354753315181961769
+      PushBack_Dust_1: 7701384638699390044
+      PushBack_Dust_10: -6759631322361254971
+      PushBack_Dust_11: -3960806683555907445
+      PushBack_Dust_12: 5415568104849552631
+      PushBack_Dust_14: -4320891768886303402
+      PushBack_Dust_15: -1923989498763890004
+      PushBack_Dust_16: -1143515335615025267
+      PushBack_Dust_17: 4614376729694198853
+      PushBack_Dust_18: 1463518056610583731
+      PushBack_Dust_2: 2541997656219837958
+      PushBack_Dust_3: -5873655066078720150
+      PushBack_Dust_4: 8246575764576555291
+      PushBack_Dust_5: 1319161916959276799
+      PushBack_Dust_6: 812755174715335242
+      PushBack_Dust_7: 3571637206389220264
+      PushBack_Dust_8: -3171823534668970810
+      PushBack_Dust_9: 4697554086973722732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

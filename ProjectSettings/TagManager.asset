@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Enemy
+  - PlayerHit
+  - PlayerParry
+  - PlayerAttack
+  - EnemyAttack
+  - EnemyHit
+  - Priedieu
+  - EnemyBlock
+  - Grounds
+  - Stone
+  - Spine
+  - Thron
+  - Boss
+  - BossHit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Grounds
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Boss
+  - ChaseColider
+  - PlayerAttack
+  - 
+  - PlayerParry
+  - 
+  - EnemyHit
+  - PlayerHit
+  - EnemyAttck
+  - EnemyBlock
+  - Stone
+  - Spine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3271007891
+    locked: 0
+  - name: BackObject1
+    uniqueID: 2494518633
+    locked: 0
+  - name: BackObject2
+    uniqueID: 188172087
+    locked: 0
+  - name: BackObject3
+    uniqueID: 2577203131
+    locked: 0
+  - name: BackObjcet4
+    uniqueID: 3879048313
+    locked: 0
+  - name: BackObject5
+    uniqueID: 252426143
+    locked: 0
+  - name: BackObject6
+    uniqueID: 3316752655
+    locked: 0
+  - name: BackObject7
+    uniqueID: 2114384775
+    locked: 0
+  - name: BackObject8
+    uniqueID: 927849705
+    locked: 0
+  - name: BackObject9
+    uniqueID: 1036921467
+    locked: 0
+  - name: BackObject10
+    uniqueID: 2987134075
+    locked: 0
+  - name: Enemy
+    uniqueID: 520515925
+    locked: 0
+  - name: EffectPlayerBack
+    uniqueID: 4017497397
+    locked: 0
+  - name: Player
+    uniqueID: 1739835435
+    locked: 0
+  - name: EffectPlayerFront
+    uniqueID: 1029997221
+    locked: 0

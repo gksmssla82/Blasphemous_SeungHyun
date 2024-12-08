@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 7921ba3e8f4e21544aa3e230fd97f3a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -954914425870994128
+    second: ranged_attack_hit_effect_0
+  - first:
+      213: 8787765710207090195
+    second: ranged_attack_hit_effect_1
+  - first:
+      213: 6894251177868111402
+    second: ranged_attack_hit_effect_2
+  - first:
+      213: -7920011920296855657
+    second: ranged_attack_hit_effect_3
+  - first:
+      213: 759643205566588108
+    second: ranged_attack_hit_effect_4
+  - first:
+      213: -7006017190294918513
+    second: ranged_attack_hit_effect_5
+  - first:
+      213: 3785562174591400773
+    second: ranged_attack_hit_effect_6
+  - first:
+      213: -354797670479361063
+    second: ranged_attack_hit_effect_7
+  - first:
+      213: 8449826932947656427
+    second: ranged_attack_hit_effect_8
+  - first:
+      213: 1589285174438714993
+    second: ranged_attack_hit_effect_9
+  - first:
+      213: 5896079050765297097
+    second: ranged_attack_hit_effect_10
+  - first:
+      213: -3467023812346449042
+    second: ranged_attack_hit_effect_11
+  - first:
+      213: 1259932795424686765
+    second: ranged_attack_hit_effect_12
+  - first:
+      213: -8754718978678869892
+    second: ranged_attack_hit_effect_13
+  - first:
+      213: 5566717864833274554
+    second: ranged_attack_hit_effect_14
+  - first:
+      213: 7066307813044040654
+    second: ranged_attack_hit_effect_15
+  - first:
+      213: 8407406751392861738
+    second: ranged_attack_hit_effect_16
+  - first:
+      213: 2539469394207338726
+    second: ranged_attack_hit_effect_17
+  - first:
+      213: 5115962316464608783
+    second: ranged_attack_hit_effect_18
+  - first:
+      213: 3439257306010527201
+    second: ranged_attack_hit_effect_19
+  - first:
+      213: -8770173213655158813
+    second: ranged_attack_hit_effect_20
+  - first:
+      213: -6637692096894728570
+    second: ranged_attack_hit_effect_21
+  - first:
+      213: -4042184100334006911
+    second: ranged_attack_hit_effect_22
+  - first:
+      213: 4872731071992352852
+    second: ranged_attack_hit_effect_23
+  - first:
+      213: -4790163590397661810
+    second: ranged_attack_hit_effect_24
+  - first:
+      213: 8944256753222965515
+    second: ranged_attack_hit_effect_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ranged_attack_hit_effect_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 306
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035301793667fb2f0800000000000000
+      internalID: -954914425870994128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranged_attack_hit_effect_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 299
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e70469a5a64f970800000000000000
+      internalID: 8787765710207090195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranged_attack_hit_effect_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 299
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ea5214bec4daf50800000000000000
+      internalID: 6894251177868111402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranged_attack_hit_effect_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797b8d9de17761290800000000000000
+      internalID: -7920011920296855657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranged_attack_hit_effect_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ae0322c70a5ce90800000000000000
+      internalID: -7006017190294918513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranged_attack_hit_effect_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee9fdf83d0d34570800000000000000
+      internalID: 8449826932947656427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranged_attack_hit_effect_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e0ef265eb1da470800000000000000
+      internalID: 8407406751392861738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranged_attack_hit_effect_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 33
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d665a089be58db0800000000000000
+      internalID: -4790163590397661810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c675aa4a66bcc3e4da3faa767120610a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ranged_attack_hit_effect_0: -954914425870994128
+      ranged_attack_hit_effect_1: 8787765710207090195
+      ranged_attack_hit_effect_10: 5896079050765297097
+      ranged_attack_hit_effect_11: -3467023812346449042
+      ranged_attack_hit_effect_12: 1259932795424686765
+      ranged_attack_hit_effect_13: -8754718978678869892
+      ranged_attack_hit_effect_14: 5566717864833274554
+      ranged_attack_hit_effect_15: 7066307813044040654
+      ranged_attack_hit_effect_17: 2539469394207338726
+      ranged_attack_hit_effect_18: 5115962316464608783
+      ranged_attack_hit_effect_19: 3439257306010527201
+      ranged_attack_hit_effect_2: 6894251177868111402
+      ranged_attack_hit_effect_20: -8770173213655158813
+      ranged_attack_hit_effect_21: -6637692096894728570
+      ranged_attack_hit_effect_22: -4042184100334006911
+      ranged_attack_hit_effect_23: 4872731071992352852
+      ranged_attack_hit_effect_25: 8944256753222965515
+      ranged_attack_hit_effect_3: -7920011920296855657
+      ranged_attack_hit_effect_4: -7006017190294918513
+      ranged_attack_hit_effect_5: 8449826932947656427
+      ranged_attack_hit_effect_6: -4790163590397661810
+      ranged_attack_hit_effect_7: 8407406751392861738
+      ranged_attack_hit_effect_9: 1589285174438714993
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: 43bf0eac913a5b449b34ef045dae49af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 844932866857720829
+    second: Lionhead_attack_0
+  - first:
+      213: -3187126873000743362
+    second: Lionhead_attack_1
+  - first:
+      213: 1793906677555624734
+    second: Lionhead_attack_2
+  - first:
+      213: -8942184259968653897
+    second: Lionhead_attack_3
+  - first:
+      213: 1581527737077990720
+    second: Lionhead_attack_4
+  - first:
+      213: 3797659975111993665
+    second: Lionhead_attack_5
+  - first:
+      213: -7250578276764440689
+    second: Lionhead_attack_6
+  - first:
+      213: 5317670252220662971
+    second: Lionhead_attack_7
+  - first:
+      213: 5454840025790480697
+    second: Lionhead_attack_8
+  - first:
+      213: -4366984865796403321
+    second: Lionhead_attack_9
+  - first:
+      213: -7311000388606392170
+    second: Lionhead_attack_10
+  - first:
+      213: 92861822319596019
+    second: Lionhead_attack_11
+  - first:
+      213: -7502014018148120528
+    second: Lionhead_attack_12
+  - first:
+      213: -436487295240936623
+    second: Lionhead_attack_13
+  - first:
+      213: 2486997128087844739
+    second: Lionhead_attack_14
+  - first:
+      213: 4781637141444336530
+    second: Lionhead_attack_15
+  - first:
+      213: 2167940024403990744
+    second: Lionhead_attack_16
+  - first:
+      213: 5068280605493673876
+    second: Lionhead_attack_17
+  - first:
+      213: -2770280625024831375
+    second: Lionhead_attack_18
+  - first:
+      213: -347892921215434708
+    second: Lionhead_attack_19
+  - first:
+      213: 244407266930495042
+    second: Lionhead_attack_20
+  - first:
+      213: 8152548388207541637
+    second: Lionhead_attack_21
+  - first:
+      213: -7931621687713548731
+    second: Lionhead_attack_22
+  - first:
+      213: -3409663113537916022
+    second: Lionhead_attack_23
+  - first:
+      213: 6838242269498175729
+    second: Lionhead_attack_24
+  - first:
+      213: -8115766003008937554
+    second: Lionhead_attack_25
+  - first:
+      213: 7085272688470305786
+    second: Lionhead_attack_26
+  - first:
+      213: 2960080090911322313
+    second: Lionhead_attack_27
+  - first:
+      213: 7150078374367949285
+    second: Lionhead_attack_28
+  - first:
+      213: -4536092063528257958
+    second: Lionhead_attack_29
+  - first:
+      213: 1342981669648735753
+    second: Lionhead_attack_30
+  - first:
+      213: 1342029727503281884
+    second: Lionhead_attack_31
+  - first:
+      213: -1791201632645410543
+    second: Lionhead_attack_32
+  - first:
+      213: -6603527209254865862
+    second: Lionhead_attack_33
+  - first:
+      213: 1602369325209255439
+    second: Lionhead_attack_34
+  - first:
+      213: 2524895562910716474
+    second: Lionhead_attack_35
+  - first:
+      213: 468730152862690847
+    second: Lionhead_attack_36
+  - first:
+      213: -154290105041063894
+    second: Lionhead_attack_37
+  - first:
+      213: 5593361805914919750
+    second: Lionhead_attack_38
+  - first:
+      213: -3313224698927169405
+    second: Lionhead_attack_39
+  - first:
+      213: 2595121428355421273
+    second: Lionhead_attack_40
+  - first:
+      213: 4075023800570569882
+    second: Lionhead_attack_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lionhead_attack_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 884
+        width: 95
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5b1c37fdc9bb00800000000000000
+      internalID: 844932866857720829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 884
+        width: 96
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e60b0cefc05c3d0800000000000000
+      internalID: -3187126873000743362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 884
+        width: 97
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b77e36e9c35e810800000000000000
+      internalID: 1793906677555624734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 884
+        width: 98
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5aa741bcaf6e380800000000000000
+      internalID: -8942184259968653897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 883
+        width: 100
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04506faf817b2f510800000000000000
+      internalID: 1581527737077990720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 711
+        width: 102
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5770421, y: 0.0044774762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149e44260aff3b430800000000000000
+      internalID: 3797659975111993665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 710
+        width: 101
+        height: 118
+      alignment: 9
+      pivot: {x: 0.56224376, y: 0.004439532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87aa45f875c06b90800000000000000
+      internalID: -7250578276764440689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 710
+        width: 103
+        height: 119
+      alignment: 9
+      pivot: {x: 0.6118982, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb446409be82cc940800000000000000
+      internalID: 5317670252220662971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 709
+        width: 101
+        height: 120
+      alignment: 9
+      pivot: {x: 0.6556094, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93103db3a1c73bb40800000000000000
+      internalID: 5454840025790480697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_9
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 693
+        width: 81
+        height: 153
+      alignment: 9
+      pivot: {x: 0.21541868, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc2bed66a5563c0800000000000000
+      internalID: -4366984865796403321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 516
+        width: 118
+        height: 162
+      alignment: 9
+      pivot: {x: 0.17146121, y: -0.003233733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6988f54c1eb1a8a90800000000000000
+      internalID: -7311000388606392170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 526
+        width: 191
+        height: 143
+      alignment: 9
+      pivot: {x: 0.14617105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11e8cd559e94100800000000000000
+      internalID: 92861822319596019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 558
+        width: 203
+        height: 79
+      alignment: 9
+      pivot: {x: 0.13611847, y: -0.006631972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038c7447ffd73e790800000000000000
+      internalID: -7502014018148120528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_13
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 558
+        width: 204
+        height: 80
+      alignment: 9
+      pivot: {x: 0.13533409, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153613a1e1941f9f0800000000000000
+      internalID: -436487295240936623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 557
+        width: 206
+        height: 81
+      alignment: 9
+      pivot: {x: 0.13124484, y: 0.0064682197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387b71916b6938220800000000000000
+      internalID: 2486997128087844739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 204
+        height: 80
+      alignment: 9
+      pivot: {x: 0.13276605, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b9a9c55a9cb5240800000000000000
+      internalID: 4781637141444336530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 385
+        width: 206
+        height: 80
+      alignment: 9
+      pivot: {x: 0.13633135, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fb3789b56265640800000000000000
+      internalID: 5068280605493673876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_17
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 385
+        width: 207
+        height: 81
+      alignment: 9
+      pivot: {x: 0.12796478, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1707f39f27cfd89d0800000000000000
+      internalID: -2770280625024831375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 385
+        width: 206
+        height: 80
+      alignment: 9
+      pivot: {x: 0.1363315, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20c41b3b390c2bf0800000000000000
+      internalID: -347892921215434708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_19
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 385
+        width: 202
+        height: 80
+      alignment: 9
+      pivot: {x: 0.13691062, y: 0.0065486906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e8ae54d1f446300800000000000000
+      internalID: 244407266930495042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 169
+        height: 80
+      alignment: 9
+      pivot: {x: 0.14040948, y: -0.00000038146973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdee8d14de8df9210800000000000000
+      internalID: 1342029727503281884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 212
+        width: 157
+        height: 83
+      alignment: 9
+      pivot: {x: 0.13294585, y: -0.006312175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1111215fa9f5427e0800000000000000
+      internalID: -1791201632645410543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 209
+        width: 153
+        height: 88
+      alignment: 9
+      pivot: {x: 0.116501555, y: 0.005953702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34bcbb7dfe8b54a0800000000000000
+      internalID: -6603527209254865862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 208
+        width: 153
+        height: 90
+      alignment: 9
+      pivot: {x: 0.1130774, y: 0.0000003390842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e741c5962cc3610800000000000000
+      internalID: 1602369325209255439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_24
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 206
+        width: 144
+        height: 95
+      alignment: 9
+      pivot: {x: 0.07070414, y: 0.00000032123768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643dbc57dec9f9d40800000000000000
+      internalID: 5593361805914919750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 143
+        height: 106
+      alignment: 9
+      pivot: {x: 0.05671169, y: 0.004942678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3804567c0bf0502d0800000000000000
+      internalID: -3313224698927169405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 28
+        width: 67
+        height: 108
+      alignment: 9
+      pivot: {x: 0.17159306, y: -0.0048504584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95411268039b30420800000000000000
+      internalID: 2595121428355421273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lionhead_attack_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 25
+        width: 88
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9465446e846d8830800000000000000
+      internalID: 4075023800570569882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51e0f2179a172804daf09afd68f04221
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lionhead_attack_0: 844932866857720829
+      Lionhead_attack_1: -3187126873000743362
+      Lionhead_attack_10: -7311000388606392170
+      Lionhead_attack_11: 92861822319596019
+      Lionhead_attack_12: -7502014018148120528
+      Lionhead_attack_13: -436487295240936623
+      Lionhead_attack_14: 2486997128087844739
+      Lionhead_attack_15: 4781637141444336530
+      Lionhead_attack_16: 5068280605493673876
+      Lionhead_attack_17: -2770280625024831375
+      Lionhead_attack_18: -347892921215434708
+      Lionhead_attack_19: 244407266930495042
+      Lionhead_attack_2: 1793906677555624734
+      Lionhead_attack_20: 1342029727503281884
+      Lionhead_attack_21: -1791201632645410543
+      Lionhead_attack_22: -6603527209254865862
+      Lionhead_attack_23: 1602369325209255439
+      Lionhead_attack_24: 5593361805914919750
+      Lionhead_attack_25: -3313224698927169405
+      Lionhead_attack_26: 2595121428355421273
+      Lionhead_attack_27: 4075023800570569882
+      Lionhead_attack_28: 7150078374367949285
+      Lionhead_attack_29: -4536092063528257958
+      Lionhead_attack_3: -8942184259968653897
+      Lionhead_attack_30: 1342981669648735753
+      Lionhead_attack_35: 2524895562910716474
+      Lionhead_attack_36: 468730152862690847
+      Lionhead_attack_37: -154290105041063894
+      Lionhead_attack_4: 1581527737077990720
+      Lionhead_attack_5: 3797659975111993665
+      Lionhead_attack_6: -7250578276764440689
+      Lionhead_attack_7: 5317670252220662971
+      Lionhead_attack_8: 5454840025790480697
+      Lionhead_attack_9: -4366984865796403321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

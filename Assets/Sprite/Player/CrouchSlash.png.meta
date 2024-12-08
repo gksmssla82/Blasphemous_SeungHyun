@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 71f5a75d919940642af5d32077aa0c49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -768839505288156518
+    second: CrouchSlash_0
+  - first:
+      213: 3475711124813304436
+    second: CrouchSlash_1
+  - first:
+      213: -6428950687894779256
+    second: CrouchSlash_2
+  - first:
+      213: 8215311163233962289
+    second: CrouchSlash_3
+  - first:
+      213: -6123319412058740446
+    second: CrouchSlash_4
+  - first:
+      213: -7112132113284429191
+    second: CrouchSlash_5
+  - first:
+      213: -8390937558469289528
+    second: CrouchSlash_6
+  - first:
+      213: -8293856490771174302
+    second: CrouchSlash_7
+  - first:
+      213: 3255402991520432032
+    second: CrouchSlash_8
+  - first:
+      213: 3257016830192682756
+    second: CrouchSlash_9
+  - first:
+      213: -5001606270566109738
+    second: CrouchSlash_10
+  - first:
+      213: 6617343482138955178
+    second: CrouchSlash_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrouchSlash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 77
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a230e1b888455f0800000000000000
+      internalID: -768839505288156518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 76
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472de585ad43c3030800000000000000
+      internalID: 3475711124813304436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 6
+        width: 74
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a47815967c7c6a0800000000000000
+      internalID: -6428950687894779256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6
+        width: 73
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1398cd3f9f5a20270800000000000000
+      internalID: 8215311163233962289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 6
+        width: 55
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2292cfdff69950ba0800000000000000
+      internalID: -6123319412058740446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 6
+        width: 51
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a88005681ac4d90800000000000000
+      internalID: -7112132113284429191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_6
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 3
+        width: 108
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c954f66fb66d8b80800000000000000
+      internalID: -8390937558469289528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_7
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3
+        width: 87
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c2481e67d46ec80800000000000000
+      internalID: -8293856490771174302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_8
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 5
+        width: 55
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb15ed5c38d2d20800000000000000
+      internalID: 3255402991520432032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_9
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 5
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078a17fc8f333d20800000000000000
+      internalID: 3257016830192682756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_10
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 5
+        width: 52
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6a88b899b69ab0800000000000000
+      internalID: -5001606270566109738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchSlash_11
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 5
+        width: 75
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad83a936d685db50800000000000000
+      internalID: 6617343482138955178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dce7c4d105acc6c4490e34b6facef2c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrouchSlash_0: -768839505288156518
+      CrouchSlash_1: 3475711124813304436
+      CrouchSlash_10: -5001606270566109738
+      CrouchSlash_11: 6617343482138955178
+      CrouchSlash_2: -6428950687894779256
+      CrouchSlash_3: 8215311163233962289
+      CrouchSlash_4: -6123319412058740446
+      CrouchSlash_5: -7112132113284429191
+      CrouchSlash_6: -8390937558469289528
+      CrouchSlash_7: -8293856490771174302
+      CrouchSlash_8: 3255402991520432032
+      CrouchSlash_9: 3257016830192682756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
